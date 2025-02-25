@@ -9,9 +9,6 @@ A passionate web developer
 
 📫 How to reach me kp9761560@gmail.com
 
-Connect with me:
-khushi-pandey-96131933b
-
 Languages and Tools:
 
 css3  
