@@ -11,7 +11,8 @@ Hi, I'm Khushi Pandey! I'm a web developer with experience in building websites 
 👨‍💻 My projects is available at https://special-carnival-4ke4j3e.pages.github.io/index.html
 
 📄 Know about my Resume https://drive.google.com/file/d/1sKqn-OkO5lZiU6OJ1JuLLImiwHrjC8Id/view?usp=drive_link
-📫 How to reach me kp9761560@gmail.com
+
+📫 Contact Me: kp9761560@gmail.com
 Connect with me:
 khushi-pandey-96131933b
 
