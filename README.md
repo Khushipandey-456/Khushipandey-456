@@ -9,8 +9,7 @@ A passionate web developer
 
 📫 How to reach me kp9761560@gmail.com
 
-Languages and Tools:
-
+Tech Stacks:
 css3  
 html5  
 javascript  
