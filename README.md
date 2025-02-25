@@ -13,6 +13,7 @@ Hi, I'm Khushi Pandey! I'm a web developer with experience in building websites 
 📄 Know about my Resume https://drive.google.com/file/d/1sKqn-OkO5lZiU6OJ1JuLLImiwHrjC8Id/view?usp=drive_link
 
 📫 Contact Me: kp9761560@gmail.com
+
 Connect with me:
 khushi-pandey-96131933b
 
