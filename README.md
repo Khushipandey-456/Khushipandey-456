@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **web developement**
 
 
-- 💬 Ask me about **Hi, I'm Khushi Pandey! I'm a web developer with experience in building websites and web applications. I work with technologies like HTML, CSS, JavaScript, Node.js, and MongoDB to create responsive and dynamic websites. I enjoy learning new things and improving my skills to build better web solutions. My focus is on writing clean code and making sure websites are fast, user-friendly, and easy to use.**
+- 💬 Ask me about **I'm a web developer with experience in building websites and web applications. I work with technologies like HTML, CSS, JavaScript, Node.js, and MongoDB to create responsive and dynamic websites. I enjoy learning new things and improving my skills to build better web solutions. My focus is on writing clean code and making sure websites are fast, user-friendly, and easy to use.**
 
 - 📫 How to reach me **kp9761560@gmail.com**
 
